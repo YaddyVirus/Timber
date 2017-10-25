@@ -6,6 +6,6 @@ So yes I got lazy and automated the right swipe for Tinder(Web). This script use
 So once you run the script you get 60 seconds to log in to Tinder and skip the intial tutorial. After that, sit back and relax as the script right swipes EVERY (yes, it doesn't differentiate between male and female yet, but tinder got that sorted for you didn't it?) profile at a rate of 1 profile a second.
 
 So gear up and go break tinder.
-Ideas for improvement and critisism is welcome.
+Ideas for improvement and critisism are welcome.
 
 P.S I know its not a bot technically, but yeah whatever, it will be one day.
