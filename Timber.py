@@ -5,7 +5,7 @@ from selenium.webdriver.common.keys import Keys
 import time
 
 # create a new Chrome session
-driver = webdriver.Chrome(executable_path='/media/euclid/YaddyVirus/Automation stuff/chromedriver')
+driver = webdriver.Chrome(executable_path='/whatever_your_ChromeDriver_path_is')
 driver.implicitly_wait(30)
 driver.maximize_window()
 
